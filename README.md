@@ -17,6 +17,66 @@ Master's student at University of Applied Sciences Berlin with hands-on experien
 
 ---
 
+## Featured Projects
+
+### 🌍 [GeoFinder](https://github.com/LisaKohls/GeoFinder)
+**A Production-Grade Spatial Isochrone Service**
+
+Discovers postal codes reachable within a specified distance using spatial geometry processing and multi-service integration.
+
+**Tech Stack**: Java 21 • Spring Boot 3.5 • JTS (Geometry) • OpenRouteService API • Docker • GitHub Actions
+
+**Key Highlights**:
+- Comprehensive test coverage (Unit + Integration tests)
+- CI/CD pipeline with GitHub Actions
+- Docker & Docker Compose support
+- Two-stage spatial filtering algorithm (O(n) complexity)
+- Production-ready error handling & logging
+- RESTful API with proper HTTP status codes
+
+### 🌊 [Mindful Ocean Web](https://github.com/LisaKohls/Mindful_Ocean_Web)
+**Interactive Environmental Data Visualization Platform**
+
+Full-stack application combining React frontend, ASP.NET backend, MySQL database, and Unreal Engine 3D environment for ocean pollution visualization.
+
+**Tech Stack**: React • TypeScript • C# • ASP.NET • MySQL • Unreal Engine 5
+
+**Key Highlights**:
+- Multi-service orchestration (Frontend → Backend → Database)
+- RESTful API with Swagger documentation
+- Unit & Integration tests with Moq
+- GitHub Actions CI/CD pipeline
+- Responsive UI with geospatial data
+
+### 📱 [SoundGuide](https://github.com/LisaKohls/SoundGuide)
+**Bachelor Thesis: Accessibility with VR & Spatial Audio**
+
+Apple Vision Pro application using Object Tracking + Spatial Audio to assist blind and visually impaired individuals.
+
+**Tech Stack**: Swift • visionOS • ARKit • RealityKit • Object Tracking
+
+**Key Highlights**:
+- Real-time spatial computing
+- Accessibility-first design
+- Unit tests with XCTest
+- Hardware optimization (Vision Pro)
+
+### 💚 [EcoScan](https://github.com/LisaKohls/EcoScan)
+**Sustainability Insights Platform**
+
+Full-stack web application for product sustainability analysis with user authentication, favorites management, and barcode scanning.
+
+**Tech Stack**: React • TypeScript • Node.js • Express • MongoDB • Docker • Jest
+
+**Key Highlights**:
+- JWT authentication
+- Comprehensive testing (Jest)
+- Docker-based local development
+- RESTful API architecture
+- Responsive React components
+
+---
+
 ## Technical Skills
 
 ### Languages
