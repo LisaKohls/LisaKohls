@@ -114,7 +114,7 @@ Full-stack web application for product sustainability analysis with user authent
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaKohls&theme=github_dark&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LisaKohls&show_icons=true&theme=github_dark&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lisakohls?cardType=github&theme=ayu-mirage&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
